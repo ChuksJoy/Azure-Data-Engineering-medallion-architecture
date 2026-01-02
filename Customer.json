@@ -1,0 +1,227 @@
+[
+  {
+    "customer_id": 301,
+    "first_name": "Amina",
+    "last_name": "Bello",
+    "email": "amina.bello@example.com",
+    "phone": "08031234501",
+    "city": "Lagos",
+    "registration_date": "2023-05-14"
+  },
+  {
+    "customer_id": 302,
+    "first_name": "Funke",
+    "last_name": "Adeyemi",
+    "email": "funke.adeyemi@example.com",
+    "phone": "08124567892",
+    "city": "Ibadan",
+    "registration_date": "2023-07-22"
+  },
+  {
+    "customer_id": 303,
+    "first_name": "Zainab",
+    "last_name": "Sadiq",
+    "email": "zainab.sadiq@example.com",
+    "phone": "07039871245",
+    "city": "Abuja",
+    "registration_date": "2023-10-05"
+  },
+  {
+    "customer_id": 304,
+    "first_name": "Chioma",
+    "last_name": "Okafor",
+    "email": "chioma.okafor@example.com",
+    "phone": "09051237864",
+    "city": "Onitsha",
+    "registration_date": "2024-01-18"
+  },
+  {
+    "customer_id": 305,
+    "first_name": "Sade",
+    "last_name": "Olawale",
+    "email": "sade.olawale@example.com",
+    "phone": "08067893412",
+    "city": "Abeokuta",
+    "registration_date": "2023-11-02"
+  },
+  {
+    "customer_id": 306,
+    "first_name": "Blessing",
+    "last_name": "Eze",
+    "email": "blessing.eze@example.com",
+    "phone": "08190345678",
+    "city": "Enugu",
+    "registration_date": "2024-02-10"
+  },
+  {
+    "customer_id": 307,
+    "first_name": "Hadiza",
+    "last_name": "Musa",
+    "email": "hadiza.musa@example.com",
+    "phone": "07084561239",
+    "city": "Kano",
+    "registration_date": "2023-06-27"
+  },
+  {
+    "customer_id": 308,
+    "first_name": "Ifeoma",
+    "last_name": "Nwoye",
+    "email": "ifeoma.nwoye@example.com",
+    "phone": "09033456781",
+    "city": "Owerri",
+    "registration_date": "2024-03-04"
+  },
+  {
+    "customer_id": 309,
+    "first_name": "Yewande",
+    "last_name": "Ajayi",
+    "email": "yewande.ajayi@example.com",
+    "phone": "08051239876",
+    "city": "Akure",
+    "registration_date": "2023-08-19"
+  },
+  {
+    "customer_id": 310,
+    "first_name": "Rahma",
+    "last_name": "Abdul",
+    "email": "rahma.abdul@example.com",
+    "phone": "08167894523",
+    "city": "Ilorin",
+    "registration_date": "2024-04-11"
+  },
+  {
+    "customer_id": 311,
+    "first_name": "Ngozi",
+    "last_name": "Okorie",
+    "email": "ngozi.okorie@example.com",
+    "phone": "07023459876",
+    "city": "Asaba",
+    "registration_date": "2023-12-09"
+  },
+  {
+    "customer_id": 312,
+    "first_name": "Aisha",
+    "last_name": "Lawal",
+    "email": "aisha.lawal@example.com",
+    "phone": "09098765432",
+    "city": "Ogbomosho",
+    "registration_date": "2024-05-01"
+  },
+  {
+    "customer_id": 313,
+    "first_name": "Kemi",
+    "last_name": "Ojo",
+    "email": "kemi.ojo@example.com",
+    "phone": "08124598763",
+    "city": "Ife",
+    "registration_date": "2023-09-29"
+  },
+  {
+    "customer_id": 314,
+    "first_name": "Fatima",
+    "last_name": "Shehu",
+    "email": "fatima.shehu@example.com",
+    "phone": "07088997766",
+    "city": "Zaria",
+    "registration_date": "2024-02-22"
+  },
+  {
+    "customer_id": 315,
+    "first_name": "Temitope",
+    "last_name": "Akinwale",
+    "email": "temitope.akinwale@example.com",
+    "phone": "08076543218",
+    "city": "Ota",
+    "registration_date": "2023-07-03"
+  },
+  {
+    "customer_id": 316,
+    "first_name": "Maryam",
+    "last_name": "Yusuf",
+    "email": "maryam.yusuf@example.com",
+    "phone": "08133445566",
+    "city": "Minna",
+    "registration_date": "2024-01-07"
+  },
+  {
+    "customer_id": 317,
+    "first_name": "Uche",
+    "last_name": "Onyekachi",
+    "email": "uche.onyekachi@example.com",
+    "phone": "09045678912",
+    "city": "Umuahia",
+    "registration_date": "2023-10-21"
+  },
+  {
+    "customer_id": 318,
+    "first_name": "Halima",
+    "last_name": "Garba",
+    "email": "halima.garba@example.com",
+    "phone": "07066554433",
+    "city": "Yola",
+    "registration_date": "2024-03-18"
+  },
+  {
+    "customer_id": 319,
+    "first_name": "Damilola",
+    "last_name": "Ogun",
+    "email": "damilola.ogun@example.com",
+    "phone": "08199887744",
+    "city": "Sagamu",
+    "registration_date": "2023-11-16"
+  },
+  {
+    "customer_id": 320,
+    "first_name": "Safiya",
+    "last_name": "Ibrahim",
+    "email": "safiya.ibrahim@example.com",
+    "phone": "09022334455",
+    "city": "Gombe",
+    "registration_date": "2024-04-29"
+  },
+  {
+    "customer_id": 321,
+    "first_name": "Bimpe",
+    "last_name": "Alade",
+    "email": "bimpe.alade@example.com",
+    "phone": "08055443322",
+    "city": "Ijebu Ode",
+    "registration_date": "2023-06-11"
+  },
+  {
+    "customer_id": 322,
+    "first_name": "Latifat",
+    "last_name": "Sule",
+    "email": "latifat.sule@example.com",
+    "phone": "08177665544",
+    "city": "Lokoja",
+    "registration_date": "2024-05-14"
+  },
+  {
+    "customer_id": 323,
+    "first_name": "Esther",
+    "last_name": "Daniels",
+    "email": "esther.daniels@example.com",
+    "phone": "09066778899",
+    "city": "Uyo",
+    "registration_date": "2023-08-02"
+  },
+  {
+    "customer_id": 324,
+    "first_name": "Hauwa",
+    "last_name": "Abubakar",
+    "email": "hauwa.abubakar@example.com",
+    "phone": "07011223344",
+    "city": "Damaturu",
+    "registration_date": "2024-02-05"
+  },
+  {
+    "customer_id": 325,
+    "first_name": "Omolara",
+    "last_name": "Ajiboye",
+    "email": "omolara.ajiboye@example.com",
+    "phone": "08188990011",
+    "city": "Osogbo",
+    "registration_date": "2023-12-27"
+  }
+]
