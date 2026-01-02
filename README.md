@@ -11,6 +11,7 @@ This project is part of my personal challenge to strengthen my Azure data engine
 ---
 
 ## Architecture Overview
+<img width="1799" height="414" alt="azure medallion project flow" src="https://github.com/user-attachments/assets/c4264e06-cf9a-4e28-b8cd-6e58066bfc1c" />
 
 The pipeline follows a layered Medallion Architecture:
 
@@ -86,7 +87,4 @@ This project was inspired by hands-on learning resources and tutorials, which I 
 
 🔗 Reference tutorial repository:  
 https://github.com/manish040596/azure-data-engineering-project
-
-
-
-📌 *Feel free to explore the repository, review the architecture, and connect with me to discuss Azure data engineering or cloud analytics.*
+*Feel free to explore the repository, review the architecture, and connect with me to discuss Azure data engineering or cloud analytics.*
