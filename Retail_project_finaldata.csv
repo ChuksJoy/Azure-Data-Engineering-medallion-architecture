@@ -1,0 +1,26 @@
+transaction_date,product_id,product_name,category,store_id,store_name,location,total_quantity_sold,total_sales_amount,number_of_transactions,average_transaction_value
+2025-02-10,4,Makeup Brush Set,Beauty,2,Glow Beauty Store,Abuja,1,12999,1,12999
+2025-05-02,12,Spa Robe,Wellness,5,The Feminine Hub,Lekki,1,19999,1,19999
+2025-01-22,6,Skincare Gift Box,Beauty,1,Elegance Boutique,Lagos,1,21999,1,21999
+2025-03-22,1,Luxury Handbag,Fashion,4,Urban Chic Outlet,Ibadan,2,49998,1,49998
+2025-04-21,9,Hair Styling Kit,Beauty,4,Urban Chic Outlet,Ibadan,1,18999,1,18999
+2025-02-06,7,Yoga Leggings,Activewear,5,The Feminine Hub,Lekki,1,13999,1,13999
+2025-04-15,3,Silk Scarf,Accessories,1,Elegance Boutique,Lagos,4,35996,1,35996
+2025-04-01,6,Skincare Gift Box,Beauty,3,Style & Grace,Port Harcourt,1,21999,1,21999
+2025-03-03,11,Ankara Maxi Dress,Fashion,3,Style & Grace,Port Harcourt,1,27999,1,27999
+2025-05-22,2,Heeled Sandals,Footwear,4,Urban Chic Outlet,Ibadan,2,35998,1,35998
+2025-01-12,8,Perfume Eau de Parfum,Fragrance,5,The Feminine Hub,Lekki,1,29999,1,29999
+2025-05-06,11,Ankara Maxi Dress,Fashion,3,Style & Grace,Port Harcourt,2,55998,1,55998
+2025-01-05,1,Luxury Handbag,Fashion,1,Elegance Boutique,Lagos,1,24999,1,24999
+2025-03-11,5,Lipstick Collection,Beauty,2,Glow Beauty Store,Abuja,3,47997,1,47997
+2025-05-15,8,Perfume Eau de Parfum,Fragrance,1,Elegance Boutique,Lagos,1,29999,1,29999
+2025-04-10,7,Yoga Leggings,Activewear,2,Glow Beauty Store,Abuja,1,13999,1,13999
+2025-01-08,5,Lipstick Collection,Beauty,2,Glow Beauty Store,Abuja,2,31998,1,31998
+2025-02-02,10,Statement Earrings,Jewelry,3,Style & Grace,Port Harcourt,2,19998,1,19998
+2025-01-18,3,Silk Scarf,Accessories,4,Urban Chic Outlet,Ibadan,3,26997,1,26997
+2025-02-14,9,Hair Styling Kit,Beauty,4,Urban Chic Outlet,Ibadan,2,37998,1,37998
+2025-02-20,2,Heeled Sandals,Footwear,1,Elegance Boutique,Lagos,1,17999,1,17999
+2025-04-06,10,Statement Earrings,Jewelry,5,The Feminine Hub,Lekki,2,19998,1,19998
+2025-03-07,12,Spa Robe,Wellness,5,The Feminine Hub,Lekki,2,39998,1,39998
+2025-03-16,8,Perfume Eau de Parfum,Fragrance,1,Elegance Boutique,Lagos,1,29999,1,29999
+2025-05-10,4,Makeup Brush Set,Beauty,2,Glow Beauty Store,Abuja,1,12999,1,12999

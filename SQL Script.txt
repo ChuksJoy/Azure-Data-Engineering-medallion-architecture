@@ -1,0 +1,86 @@
+-- Products Table
+CREATE TABLE products (
+    product_id INT PRIMARY KEY,
+    product_name VARCHAR(100),
+    category VARCHAR(50),
+    price DECIMAL(10,2)
+);
+
+-- Stores Table
+CREATE TABLE stores (
+    store_id INT PRIMARY KEY,
+    store_name VARCHAR(100),
+    location VARCHAR(100)
+);
+
+-- Transactions Table
+CREATE TABLE transactions (
+    transaction_id INT PRIMARY KEY,
+    customer_id INT,
+    product_id INT,
+    store_id INT,
+    quantity INT,
+    transaction_date DATE,
+    FOREIGN KEY (product_id) REFERENCES products(product_id),
+    FOREIGN KEY (store_id) REFERENCES stores(store_id)
+);
+
+INSERT INTO products VALUES
+(1, 'Luxury Handbag', 'Fashion', 24999.00),
+(2, 'Heeled Sandals', 'Footwear', 17999.00),
+(3, 'Silk Scarf', 'Accessories', 8999.00),
+(4, 'Makeup Brush Set', 'Beauty', 12999.00),
+(5, 'Lipstick Collection', 'Beauty', 15999.00),
+(6, 'Skincare Gift Box', 'Beauty', 21999.00),
+(7, 'Yoga Leggings', 'Activewear', 13999.00),
+(8, 'Perfume Eau de Parfum', 'Fragrance', 29999.00),
+(9, 'Hair Styling Kit', 'Beauty', 18999.00),
+(10, 'Statement Earrings', 'Jewelry', 9999.00),
+(11, 'Ankara Maxi Dress', 'Fashion', 27999.00),
+(12, 'Spa Robe', 'Wellness', 19999.00);
+
+
+INSERT INTO stores VALUES
+(1, 'Elegance Boutique', 'Lagos'),
+(2, 'Glow Beauty Store', 'Abuja'),
+(3, 'Style & Grace', 'Port Harcourt'),
+(4, 'Urban Chic Outlet', 'Ibadan'),
+(5, 'The Feminine Hub', 'Lekki');
+
+
+INSERT INTO transactions VALUES
+(1, 301, 1, 1, 1, '2025-01-05'),
+(2, 302, 5, 2, 2, '2025-01-08'),
+(3, 303, 8, 5, 1, '2025-01-12'),
+(4, 304, 3, 4, 3, '2025-01-18'),
+(5, 305, 6, 1, 1, '2025-01-22'),
+
+(6, 306, 10, 3, 2, '2025-02-02'),
+(7, 307, 7, 5, 1, '2025-02-06'),
+(8, 308, 4, 2, 1, '2025-02-10'),
+(9, 309, 9, 4, 2, '2025-02-14'),
+(10, 310, 2, 1, 1, '2025-02-20'),
+
+(11, 311, 11, 3, 1, '2025-03-03'),
+(12, 312, 12, 5, 2, '2025-03-07'),
+(13, 313, 5, 2, 3, '2025-03-11'),
+(14, 314, 8, 1, 1, '2025-03-16'),
+(15, 315, 1, 4, 2, '2025-03-22'),
+
+(16, 316, 6, 3, 1, '2025-04-01'),
+(17, 317, 10, 5, 2, '2025-04-06'),
+(18, 318, 7, 2, 1, '2025-04-10'),
+(19, 319, 3, 1, 4, '2025-04-15'),
+(20, 320, 9, 4, 1, '2025-04-21'),
+
+(21, 321, 12, 5, 1, '2025-05-02'),
+(22, 322, 11, 3, 2, '2025-05-06'),
+(23, 323, 4, 2, 1, '2025-05-10'),
+(24, 324, 8, 1, 1, '2025-05-15'),
+(25, 325, 2, 4, 2, '2025-05-22'),
+
+(26, 326, 5, 5, 1, '2025-06-01'),
+(27, 327, 6, 2, 2, '2025-06-05'),
+(28, 328, 1, 3, 1, '2025-06-10'),
+(29, 329, 10, 1, 3, '2025-06-15'),
+(30, 330, 7, 4, 1, '2025-06-20');
